@@ -16,8 +16,8 @@ Musical is a SoundCloud-powered music player that lives in the side panel, letti
 ## Installation
 
 ### Download Options
-1. **Website:** Download the extension package from [musicalext.xyz](https://musicalext.xyz).
-2. **GitHub:** Go to the **Releases** tab in this repository to find the latest version.
+1. **Website:** Download the extension package from [musicalext.xyz](https://musicalext.xyz). (May be down due to Netlify usage limits) 
+2. (Reccomended) **GitHub:** Go to the **Releases** tab in this repository to find the latest version.
 
 ### Setup Instructions
 1. Navigate to `chrome://extensions` (or your Chromium browser's equivalent) in your address bar.
