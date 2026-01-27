@@ -29,7 +29,7 @@ The side panel remains accessible while you browse, work, or use web application
 - SoundCloud API access
 
 ## Installation Methods
-CHrome Web Store (may be behind on updates): https://chromewebstore.google.com/detail/musical/ekjkjdcppjpclliaejphkpglpleglfon
+Chrome Web Store (may be behind on updates): https://chromewebstore.google.com/detail/musical/ekjkjdcppjpclliaejphkpglpleglfon
 Releases Tab: https://github.com/y0f1nn/musical/releases/
 Website: https://www.musicalext.xyz
 Firefox user?: https://brave.com/
