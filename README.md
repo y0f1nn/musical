@@ -1,51 +1,32 @@
 # Musical
 
-Musical is a SoundCloud-powered music player that lives in the side panel, letting you discover, play, and manage tracks without ever leaving what you're working on.
+A SoundCloud-powered music player that runs in a browser side panel.
 
----
+## What It Does
+
+Musical provides access to SoundCloud's music library through the Chromium Side Panel. You can search for tracks, play music, and manage playback while working in other browser tabs.
 
 ## Features
 
-* **Side Panel Integration:** The player remains accessible in the Chromium side panel, eliminating the need to toggle between tabs.
-* **SoundCloud Integration:** Connects to SoundCloud to stream tracks and playlists.
-* **Persistent Playback:** Audio continues to play in the background as you navigate different websites.
-* **Tailwind UI:** Uses Tailwind CSS for a minimalist interface designed for the side panel's dimensions.
+- **Side Panel**: Runs in the browser's side panel alongside your main content
+- **SoundCloud Integration**: Connects to SoundCloud's music catalog
+- **Search Functionality**: Find tracks, artists, and playlists
+- **Playback Controls**: Standard play, pause, skip, and volume controls
+- **Persistent Player**: Continues playing while you navigate between tabs or close the side panel
 
----
+## Technical Details
+
+Musical operates as a browser extension that embeds SoundCloud widget API in the side panel. The player maintains its state independent of your activity.
+
+## Usage
+
+The side panel remains accessible while you browse, work, or use web applications. Music playback is not interrupted when switching tabs or windows. You can close the side panel, and the music will keep playing.
+
+## Requirements
+
+- Browser with side panel support
+- Internet connection for streaming
+- SoundCloud API access
 
 ## Installation
-
-### Download Options
-1. **Website:** Download the extension package from [musicalext.xyz](https://musicalext.xyz). (May be down due to Netlify usage limits) 
-2. (Reccomended) **GitHub:** Go to the **Releases** tab in this repository to find the latest version.
-
-### Setup Instructions
-1. Navigate to `chrome://extensions` (or your Chromium browser's equivalent) in your address bar.
-2. Enable **Developer mode** using the toggle in the top right.
-3. Click **Load unpacked** and select the project folder.
-4. Click the Musical extension.
-
----
-
-## Tech Stack
-
-* **Logic:** React
-* **Styling:** Tailwind CSS
-* **API:** SoundCloud API
-* **Extension Format:** Manifest V3
-
----
-
-## Contributing
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/name`).
-3. Commit your changes (`git commit -m 'description of change'`).
-4. Push to the branch (`git push origin feature/name`).
-5. Open a Pull Request.
-
----
-
-## License
-
-Distributed under the MIT License.
+Releases tab, and soon to be on the Chrome Web Store. Reccomended to install from the releases tab to get the newest version first.
