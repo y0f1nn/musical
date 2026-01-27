@@ -28,5 +28,8 @@ The side panel remains accessible while you browse, work, or use web application
 - Internet connection for streaming
 - SoundCloud API access
 
-## Installation
-Releases tab, and soon to be on the Chrome Web Store. Reccomended to install from the releases tab to get the newest version first.
+## Installation Methods
+CHrome Web Store (may be behind on updates): https://chromewebstore.google.com/detail/musical/ekjkjdcppjpclliaejphkpglpleglfon
+Releases Tab: https://github.com/y0f1nn/musical/releases/
+Website: https://www.musicalext.xyz
+Firefox user?: https://brave.com/
