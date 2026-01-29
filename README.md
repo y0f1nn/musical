@@ -1,18 +1,17 @@
 # Musical
 
-A SoundCloud-powered music player that runs in the Chromium side panel.
+A Chromium side panel music player that is powered by SoundCloud.
 
 ## What It Does
-
-Musical provides access to SoundCloud's music library through the Chromium Side Panel. You can search for tracks, play music, and manage playback while working in other browser tabs.
+Using the Chromium Side Panel, Musical gives users access to SoundCloud's music library. While working in other browser tabs, you can play music, search for tracks, and control playback.
 
 ## Features
 
-- **Side Panel**: Runs in the browser's side panel alongside your main content or playing in the background when side panel is closed
-- **SoundCloud Integration**: Connects to SoundCloud's music catalog
-- **Search Functionality**: Find tracks, artists, and playlists
-- **Playback Controls**: Standard play, pause, skip, and volume controls
-- **Persistent Player**: Continues playing while you navigate between tabs or close the side panel
+- When the side panel is closed, it plays in the background or runs alongside in the browser's side panel.
+- SoundCloud Integration: Establishes a connection to SoundCloud's music library
+- The ability to search for songs, artists, and playlists
+- Standard play, pause, skip, and volume controls are included in the playback controls.
+- The sidebar music player keeps playing even when you close the side panel or switch between tabs
 
 ## Requirements
 
