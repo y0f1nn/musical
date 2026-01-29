@@ -1,6 +1,6 @@
 # Musical
 
-A Chromium side panel music player that is powered by SoundCloud.
+A Chromium side panel music player that's powered by SoundCloud.
 
 ## What It Does
 Using the Chromium Side Panel, Musical gives users access to SoundCloud's music library. While working in other browser tabs, you can play music, search for tracks, and control playback.
